@@ -117,7 +117,7 @@ header i {
 }
 .weather-part .temp .deg {
     font-size: 40px;
-    margin: 12px 0 0 5px;
+    margin: 10px 0 0 5px;
     display: block;
 }
 .weather-part .location {
